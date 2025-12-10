@@ -30,3 +30,5 @@ For any queries or collaborations, feel free to contact us at emails below.
 Special thanks to the University of Manchester and the Robotics Department for their support and resources in making this project possible.
 
 ## Videos
+1.Mechanical Structure
+![](/Videos/Mechanical.gif)
