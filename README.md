@@ -6,7 +6,7 @@ Building a LeoRover-based lunar rover that maps and navigates unknown scenes wit
 - **Technical Lead: Aravind Sankar** -
 - **Documentation Lead: Haoran Mo** -
 - **Project Manager: Yuchen She** - <https://github.com/Peanutman917/>
-- **Communication and Welfare: Agung Puji Raharjo** -
+- **Communication and Welfare: Agung Puji Raharjo** - <>
 
 ## Contact
 
