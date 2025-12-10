@@ -14,3 +14,9 @@ For any queries or collaborations, feel free to contact us at emails below.
 <ting-wei.chang@postgrad.manchester.ac.uk>
 <yuchen.she@postgrad.manchester.ac.uk>
 <agungpuji.raharjo@postgrad.manchester.ac.uk>
+
+## Acknowledgments
+
+Special thanks to the University of Manchester and the Robotics Department for their support and resources in making this project possible.
+
+## Videos
