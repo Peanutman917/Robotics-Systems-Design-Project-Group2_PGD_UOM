@@ -13,8 +13,8 @@ Building a LeoRover-based lunar rover that maps and navigates unknown scenes wit
 ## Team Members
 
 - **Team Coordinator: Ting-Wei Chang** - <https://github.com/tingweizhang6>
-- **Technical Lead: Aravind Sankar** -
-- **Documentation Lead: Haoran Mo** -
+- **Technical Lead: Aravind Sankar** - <https://github.com/Aravind12390>
+- **Documentation Lead: Haoran Mo** - <https://github.com/q2459748466-ship-it>
 - **Project Manager: Yuchen She** - <https://github.com/Peanutman917/>
 - **Communication and Welfare: Agung Puji Raharjo** - <https://github.com/AgungPujiRaharjo>
 
@@ -22,6 +22,8 @@ Building a LeoRover-based lunar rover that maps and navigates unknown scenes wit
 
 For any queries or collaborations, feel free to contact us at emails below.
 - <ting-wei.chang@postgrad.manchester.ac.uk>
+- <aravind.sankar@postgrad.manchester.ac.uk>
+- <haoran.mo@student.manchester.ac.uk>
 - <yuchen.she@postgrad.manchester.ac.uk>
 - <agungpuji.raharjo@postgrad.manchester.ac.uk>
 
@@ -31,5 +33,8 @@ Special thanks to the University of Manchester and the Robotics Department for t
 
 ## Videos
 1.Mechanical Structure
+
 ![](/Videos/Mechanical.gif)
+
+2.Color Detection
 
