@@ -11,9 +11,9 @@ Building a LeoRover-based lunar rover that maps and navigates unknown scenes wit
 ## Contact
 
 For any queries or collaborations, feel free to contact us at emails below.
-<ting-wei.chang@postgrad.manchester.ac.uk>
-<yuchen.she@postgrad.manchester.ac.uk>
-<agungpuji.raharjo@postgrad.manchester.ac.uk>
+- <ting-wei.chang@postgrad.manchester.ac.uk> -
+- <yuchen.she@postgrad.manchester.ac.uk> -
+- <agungpuji.raharjo@postgrad.manchester.ac.uk> -
 
 ## Acknowledgments
 
