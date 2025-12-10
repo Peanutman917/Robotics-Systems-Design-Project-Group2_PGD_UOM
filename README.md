@@ -1,5 +1,15 @@
 # Robotics-Systems-Design-Project-Group2_PGD_UOM
+## Introduction
+
+Welcome to the GitHub repository of the Manchester Robotics Team2! We are a group of five passionate Robotics postgraduate students from the University of Manchester: Aravind Sankar, Agung Puji Raharjo, Haoran Mo, Ting-Wei Chang, and Yuchen She.
+
+This repository serves as our collaborative workspace for developing an innovative robotics project. Our primary objective is to create a robot capable of autonomously picking up objects from the environment. Specifically, building a LeoRover-based lunar rover that maps and navigates unknown scenes with RPLidar SLAM, detects object colors via onboard RealSense D435, and uses a robotic arm to pick targets and drop them into matching color bins autonomously.
+
+## Project Overview
+
+The project aims to design and implement a robotic system that combines the mobility of the LeoRover with the functionality of a mechanical arm. This system will be equipped with sensors and AI algorithms to detect, approach, and manipulate objects in various settings.
 Building a LeoRover-based lunar rover that maps and navigates unknown scenes with RPLidar SLAM, detects object colors via onboard RealSense D435, and uses a robotic arm to pick targets and drop them into matching color bins autonomously.
+
 ## Team Members
 
 - **Team Coordinator: Ting-Wei Chang** - <https://github.com/tingweizhang6>
