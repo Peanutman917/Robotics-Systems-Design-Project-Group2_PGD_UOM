@@ -31,5 +31,5 @@ Special thanks to the University of Manchester and the Robotics Department for t
 
 ## Videos
 1.Mechanical Structure
-![](/Videos/Mechanical.mp4)
+![](/Videos/Mechanical.gif)
 
