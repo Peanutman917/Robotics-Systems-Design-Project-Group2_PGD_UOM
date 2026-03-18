@@ -32,9 +32,13 @@ For any queries or collaborations, feel free to contact us at emails below.
 Special thanks to the University of Manchester and the Robotics Department for their support and resources in making this project possible.
 
 ## Videos
-1.Mechanical Structure
+1.a Preliminary Mechanical Structure
 
 ![](/Videos/Mechanical.gif)
+
+1.b Final Mechanical Structure
+
+![](/Videos/final_mechanical_design.gif)
 
 2.Color Detection
 
