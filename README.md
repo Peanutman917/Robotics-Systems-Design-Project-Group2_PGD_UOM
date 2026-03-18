@@ -39,3 +39,7 @@ Special thanks to the University of Manchester and the Robotics Department for t
 2.Color Detection
 
 ![](/Videos/Color.gif)
+
+3.Robot arm test and pick up
+
+![](/Videos/pick_up.gif)
