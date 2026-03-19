@@ -1,0 +1,2 @@
+[console_scripts]
+goal_manager = my_goal_manager.goal_manager:main
