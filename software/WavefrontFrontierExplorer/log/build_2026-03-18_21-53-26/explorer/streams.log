@@ -1,0 +1,37 @@
+[1.022s] Invoking command in '/home/student22/WavefrontFrontierExplorer/src/explorer': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student22/WavefrontFrontierExplorer/build/explorer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/explorer build --build-base /home/student22/WavefrontFrontierExplorer/build/explorer/build install --record /home/student22/WavefrontFrontierExplorer/build/explorer/install.log --single-version-externally-managed install_data
+[1.329s] running egg_info
+[1.329s] creating ../../build/explorer/explorer.egg-info
+[1.350s] writing ../../build/explorer/explorer.egg-info/PKG-INFO
+[1.351s] writing dependency_links to ../../build/explorer/explorer.egg-info/dependency_links.txt
+[1.352s] writing entry points to ../../build/explorer/explorer.egg-info/entry_points.txt
+[1.352s] writing requirements to ../../build/explorer/explorer.egg-info/requires.txt
+[1.352s] writing top-level names to ../../build/explorer/explorer.egg-info/top_level.txt
+[1.352s] writing manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+[1.396s] reading manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+[1.397s] writing manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+[1.398s] running build
+[1.398s] running build_py
+[1.398s] creating /home/student22/WavefrontFrontierExplorer/build/explorer/build
+[1.399s] creating /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib
+[1.399s] creating /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+[1.399s] copying explorer/__init__.py -> /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+[1.399s] copying explorer/frontier_explorer.py -> /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+[1.400s] running install
+[1.407s] running install_lib
+[1.429s] creating /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+[1.430s] copying /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer/__init__.py -> /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+[1.430s] copying /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer/frontier_explorer.py -> /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+[1.431s] byte-compiling /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer/__init__.py to __init__.cpython-312.pyc
+[1.431s] byte-compiling /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer/frontier_explorer.py to frontier_explorer.cpython-312.pyc
+[1.432s] running install_data
+[1.432s] creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index
+[1.433s] creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index
+[1.433s] creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index/packages
+[1.433s] copying resource/explorer -> /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index/packages
+[1.433s] copying package.xml -> /home/student22/WavefrontFrontierExplorer/install/explorer/share/explorer
+[1.433s] running install_egg_info
+[1.459s] Copying ../../build/explorer/explorer.egg-info to /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer-0.0.0-py3.12.egg-info
+[1.460s] running install_scripts
+[1.632s] Installing frontier_explorer script to /home/student22/WavefrontFrontierExplorer/install/explorer/lib/explorer
+[1.633s] writing list of installed files to '/home/student22/WavefrontFrontierExplorer/build/explorer/install.log'
+[1.676s] Invoked command in '/home/student22/WavefrontFrontierExplorer/src/explorer' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/student22/WavefrontFrontierExplorer/build/explorer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/explorer build --build-base /home/student22/WavefrontFrontierExplorer/build/explorer/build install --record /home/student22/WavefrontFrontierExplorer/build/explorer/install.log --single-version-externally-managed install_data

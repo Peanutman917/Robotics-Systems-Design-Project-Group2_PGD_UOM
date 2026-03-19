@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/explorer/explorer.egg-info
+writing ../../build/explorer/explorer.egg-info/PKG-INFO
+writing dependency_links to ../../build/explorer/explorer.egg-info/dependency_links.txt
+writing entry points to ../../build/explorer/explorer.egg-info/entry_points.txt
+writing requirements to ../../build/explorer/explorer.egg-info/requires.txt
+writing top-level names to ../../build/explorer/explorer.egg-info/top_level.txt
+writing manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+reading manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+writing manifest file '../../build/explorer/explorer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/student22/WavefrontFrontierExplorer/build/explorer/build
+creating /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib
+creating /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+copying explorer/__init__.py -> /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+copying explorer/frontier_explorer.py -> /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer
+running install
+running install_lib
+creating /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+copying /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer/__init__.py -> /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+copying /home/student22/WavefrontFrontierExplorer/build/explorer/build/lib/explorer/frontier_explorer.py -> /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer
+byte-compiling /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer/frontier_explorer.py to frontier_explorer.cpython-312.pyc
+running install_data
+creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index
+creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index
+creating /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index/packages
+copying resource/explorer -> /home/student22/WavefrontFrontierExplorer/install/explorer/share/ament_index/resource_index/packages
+copying package.xml -> /home/student22/WavefrontFrontierExplorer/install/explorer/share/explorer
+running install_egg_info
+Copying ../../build/explorer/explorer.egg-info to /home/student22/WavefrontFrontierExplorer/install/explorer/lib/python3.12/site-packages/explorer-0.0.0-py3.12.egg-info
+running install_scripts
+Installing frontier_explorer script to /home/student22/WavefrontFrontierExplorer/install/explorer/lib/explorer
+writing list of installed files to '/home/student22/WavefrontFrontierExplorer/build/explorer/install.log'
